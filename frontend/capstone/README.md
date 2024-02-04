@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+#Just setup default folder structure react, for now did not even any project modifications before discussed
+# even enlist in not enabled as of now 2/3/2024
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
